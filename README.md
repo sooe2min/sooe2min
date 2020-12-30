@@ -25,11 +25,6 @@
 
 ![Soomin's github stats](https://github-readme-stats.vercel.app/api?username=sooe2min&show_icons=true)
 
-[![Tech Blog Badge](http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://smss.netlify.app/)](https://smss.netlify.app/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsmsumin2@gmail.com)](mailto:jsmsumin2@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooe2min&count_bg=%23D1366F&title_bg=%239C36D1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/sooe2min)
-
-
-
-	
-
+[![Blog Badge](http://img.shields.io/badge/Blog-663399?style=flat-square&logo=gatsby&link=https://smss.netlify.app/)](https://smss.netlify.app/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsmsumin2@gmail.com)](mailto:jsmsumin2@gmail.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooe2min&count_bg=%23EA35A8&title_bg=%23C135EA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
