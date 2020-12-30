@@ -23,7 +23,7 @@
 - **Interested**: TypeScript | Next.js | Redux | SCSS
 - **Others**: Slack | Notion | Zoom | Postman
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sooe2min)](https://github.com/anuraghazra/github-readme-stats)	
+![Sooe2min's github stats](https://github-readme-stats.vercel.app/api?username=sooe2min&show_icons=true)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://smss.netlify.app/)](https://smss.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsmsumin2@gmail.com)](mailto:jsmsumin2@gmail.com)
