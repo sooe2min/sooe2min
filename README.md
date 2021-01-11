@@ -4,7 +4,7 @@
 
 - JavaScript 언어를 기반으로 한 Full Stack 웹 개발 교육 과정을 수료했습니다.
 - 백엔드 스택으로 Node.js, Express, MySQL, Sequelize를 주로 사용합니다.
-- React, Redux, SCSS, TypeScript를 공부하고자 개인 블로그를 만들고 있습니다.
+- Next.js, Redux, SCSS, TypeScript를 공부하고자 개인 블로그를 만들고 있습니다.
 
 **#직업으로 자아실현**
 
